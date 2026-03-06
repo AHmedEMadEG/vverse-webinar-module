@@ -1,8 +1,6 @@
-# Next.js Webinar Module
+# Next.js Webinar Module: A Core Component of the V-Verse SaaS Platform
 
-This repository showcases the **architecture and core frontend logic of the Webinar module** developed as part of the **V-Verse SaaS platform**, a multi-module application containing more than 15 product modules.
-
-The purpose of this repository is to demonstrate the **technical design, architecture patterns, and implementation approach** used to build a production-level webinar system supporting multiple webinar types, synchronized video sessions, and real-time attendee interactions. It is intended to give recruiters and engineers clear insight into how complex frontend systems are structured and implemented in a real-world SaaS environment.
+This repository showcases my work on **the architecture and core frontend logic of the Webinar module**, developed as part of the **V-Verse SaaS platform**—a multi-module application with 15 product modules.
 
 ---
 
@@ -75,9 +73,3 @@ Before the webinar begins, attendees enter a waiting room displaying a countdown
 - **TypeScript**
 - **React**
 - Real-time messaging (WebSockets / Firebase / similar services)
-
----
-
-## Repository Scope
-
-This repository focuses specifically on the **Webinar module** and demonstrates key architectural patterns, core logic, and interaction flows used to implement this feature within a larger production SaaS platform.
