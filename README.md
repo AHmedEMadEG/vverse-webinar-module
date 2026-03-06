@@ -4,6 +4,16 @@ This repository showcases my work on **the architecture and core frontend logic 
 
 ---
 
+## Note on Repository Scope
+
+This repository is intended as a **code and architecture showcase**, focusing on how key features are structured and implemented rather than providing a fully runnable application.
+
+The code included here highlights the core logic, patterns, and components used to implement the feature within a larger production SaaS platform. Because of this, the repository may not run out-of-the-box if cloned, and certain dependencies, configurations, or integrations from the original application environment are intentionally omitted.
+
+A **runnable demo version** of these features is planned for a future update. This will include a simplified environment with minimal setup (such as a basic landing page, dummy authentication flow, and sample data) allowing the features to be explored and executed locally.
+
+---
+
 ## Features
 
 - Webinar creation supporting multiple types:
